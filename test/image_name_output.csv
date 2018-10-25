@@ -1,0 +1,4 @@
+image1,image2,similarity,elapsed
+red-ball.png,red-circle.png,0.282,0.004
+rose.jpg,rose.png,0.040,0.003
+wizard.jpg,wizard-copy.jpg,0.000,0.113
